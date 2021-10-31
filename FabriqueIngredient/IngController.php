@@ -2,8 +2,8 @@
 class IngController
 {
     /**
-     * Appelle la fonction qui crée un objet de la classe $nomInf
-     * Et retourne cette objet
+     * Appel la fonction qui crée un objet de la classe $nomInf
+     * Et retourne cet objet
      */
     public static function create($nomIng){
         $oIng = IngFactory::build(self::generateRef(8),$nomIng );
