@@ -10,7 +10,7 @@ class IngController
         return $oIng;
     }
    /**
-    * Créé un référence 
+    * Créé une référence 
     */
     public static function generateRef($length=2){
         $characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
