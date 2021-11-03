@@ -1,8 +1,10 @@
-# PizzaMario
+# PizzaMario (le projet est dans la branche master du GitLab)
 
 # Lien Trello : https://trello.com/b/sraccPAk/pizza-mario
 
 # Personne du groupe : ADET Florentin LAOUER Nathan
+
+
 
 # Expérience optimal pour le projet :
 
